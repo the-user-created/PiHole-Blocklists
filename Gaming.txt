@@ -1,6 +1,8 @@
-# Version 1
+# Version 2
 # Blocks all steam domains
+# Blocks common .io games
 
+# STEAM DOMAINS
 s.team
 steam-chat.com
 steamchina.com
@@ -67,3 +69,17 @@ update1.csgo.wmsj.cn
 st.dl.bscstorage.net
 cdn.mileweb.cs.steampowered.com.8686c.com
 steamcdn-a.akamaihd.net
+
+# .io GAME DOMAINS
+wings.io
+agar.io
+flappyroyale.io
+slither.io
+diep.io
+tetr.io
+skribbl.io
+2048.io
+krunker.io
+starve.io
+cardgames.io
+venge.io
